@@ -14,9 +14,10 @@ This repo represents how to use RAG architecture on youtube videoes and talk wit
   - Youtube transcript API service
 
 **File Structure**
-  - youtube_utils.py: Extract video id and get transcript based on the given youtube link
-  - pinecone_utils.py: Upload sub scripts as vectors embeddings and for semantic search
-  - upload.py: Upload vector embeddings
-  - ask.py: Talk with LLM with semantic research results 
+  - *youtube_utils.py*: Extract video id and get transcript based on the given youtube link
+  - *pinecone_utils.py*: Upload sub scripts as vectors embeddings and for semantic search
+  - *upload.py*: Upload vector embeddings
+  - *ask.py*: Talk with LLM with semantic research results
+  - *requirements.txt*: Dependencies
 
 
