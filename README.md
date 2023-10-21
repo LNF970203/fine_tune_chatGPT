@@ -22,7 +22,7 @@ This repo represents how to use RAG architecture on youtube videoes and talk wit
 
 **How to run**
   - Install modules using requirements.txt
-  - Define API keys
+  - Define API keys in pinecone_utils (DO NOT ENTER OPENAI API KEY in Github: it will be rotated)
   - Define the link in upload.py and run to save vector embeddigs
   - Use ask.py to talk with the LLM
 
