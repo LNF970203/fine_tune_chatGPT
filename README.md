@@ -34,10 +34,10 @@ This repo represents how to use RAG architecture on youtube videoes and talk wit
   - Seperate it to chunks (You can use any video with any duration. Since openAI has token limit, need to chunk the script)
   - Get embeddings from openAI and save inside vector DB
   - User Prompt and get relevent content from semantic search
-  - With the relevent content, talk with LLM for abstractive insights.
+  - With the relevent content, talk with LLM for abstractive insights
 
 **TODO**
-- Can define benchmark similarity score to get relevant content. Based on that, if the score is less than benchmark, manual prompt can be used to overcome getting unrelated content
+- Can define benchmark similarity score to get relevant content. Based on that, if the score is less than benchmark, manual prompt can be used to overcome getting unrelated content.
 
 **IMPORTANT NOTES**
 - If transcript generation is disabled for the youtube videoes that you have defined, by Youtube, full script cannot be extracted.
