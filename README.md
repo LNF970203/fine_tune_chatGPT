@@ -39,6 +39,6 @@ This repo represents how to use RAG architecture on youtube videoes and talk wit
 **TODO**
 - Can define benchmark similarity score to get relevant content. Based on that, if the score is less than benchmark, manual prompt can be used to overcome getting unrelated content
 
-**IMPORTANT REMARKS**
+**IMPORTANT NOTES**
 - If transcript generation is disabled for the youtube videoes that you have defined, by Youtube, full script cannot be extracted.
 - This error is handled when getting the script in code base.
