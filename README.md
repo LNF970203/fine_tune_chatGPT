@@ -1,5 +1,6 @@
 # fine_tune_chatGPT
-fine tune LLM with RAG
+fine tune LLM with RAG.
+
 Fine tuning LLMs with RAG framework has much benefits when compared with fine-tuning
   - Low cost
   - Less Effort
