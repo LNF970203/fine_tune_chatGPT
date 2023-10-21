@@ -20,4 +20,10 @@ This repo represents how to use RAG architecture on youtube videoes and talk wit
   - *ask.py*: Talk with LLM with semantic research results
   - *requirements.txt*: Dependencies
 
+**How to run**
+  - Install modules using requirements.txt
+  - Define API keys
+  - Define the link in upload.py and run to save vector embeddigs
+  - Use ask.py to talk with the LLM
+
 
