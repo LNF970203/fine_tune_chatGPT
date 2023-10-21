@@ -1,0 +1,4 @@
+langchain==0.0.319
+openai==0.28.1
+pinecone-client==2.2.4
+youtube-transcript-api==0.6.1
